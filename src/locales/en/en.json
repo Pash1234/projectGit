@@ -1,0 +1,114 @@
+{
+    "header": {
+        "topHeader": {
+            "aboutUs": "About Us",
+            "delivery": "Payment and Delivery",
+            "news": "News",
+            "contact": "Contact",
+            "private": "Personal Account",
+            "language": "Russian"
+        },
+        "mediumHeader": {
+            "place": "Moscow",
+            "call": "Request a Call",
+            "order": "Place an Order",
+            "price": "0 RUB"
+        },
+        "bottomHeader": {
+            "knives": "Knife Catalog",
+            "weapon": "Bladed Weapons",
+            "souvenir": "Souvenir Items",
+            "lanterns": "ARMYTEK Lanterns",
+            "relateProduct": "Related Products"
+        }
+    },
+    "contactPage": {
+        "contactTitle": "Contact Us",
+        "contactText": "Online store of Zlatoust knives",
+        "contactPhone": "Phone",
+        "contactDetails": "Additional contact details:",
+        "email": "Email",
+        "otherEmail": "For cooperation inquiries",
+        "time": "Working hours"
+    },
+    "newsPage": {
+        "newsTitle": "Our Articles",
+        "newsText": "This blog features our news, information about steels, maintenance, and sharpening. Here you will find tips on how to properly store and care for knives, how to use Zlatoust knives, how to choose the right steel and handle materials, and much more. Everything important in one place.",
+        "cardOneText": "All About Steels",
+        "cardTwoText": "Life Hacks",
+        "cardThreeText": "News"
+    },
+    "deliveryPage": {
+        "deliveryTitle": "Payment and Delivery",
+        "deliveryText": "In our online store, there is a delivery option without prepayment (cash on delivery) across Russia. Cash on delivery applies to items in stock worth up to 5000 rubles. Payment is made at your post office when you receive the package. Delivery of orders within Russia without prepayment and cash on delivery usually takes 10-14 days. Be careful! When delivering goods with cash on delivery, Russian Post charges an additional 5-7% of the estimated package value for the money transfer service. This fee goes to Russian Post for the 'Cash on Delivery and Money Transfer' service. Therefore, it is often more cost-effective to order goods with prepayment. You can read more about the pros and cons of cash on delivery here. You can receive your order much faster, within 3-7 days across Russia, if you choose EMS mail delivery. EMS mail delivery is also available without prepayment. Delivery is now available to new areas of the DPR and LPR. When placing an order, please specify the full address in the 'Comment' field. Delivery is handled by Russian Post, Class 1."
+    },
+    "aboutUsPage": {
+        "textOneTitle": "Zlatoust Knives — Legends Made of Steel",
+        "textOneContent": "Hello! We are the official store of the legendary Zlatoust knives, where you can buy a knife for any task: from hunting to the kitchen. Our blades are not just tools, but a legacy of Ural craftsmen, tested by time.",
+        "textTwoTitle": "What can you buy from us?",
+        "textTwoContent": {
+            "oneList": "Folding knives – compact, stylish, and incredibly convenient. Want to buy a folding knife that won’t let you down? We have the perfect options!",
+            "twoList": "Kitchen knives – for those who value sharpness and balance. Buying kitchen knives from us means getting a professional tool for your home.",
+            "threeList": "Hunting and tactical – reliable, durable, with the right sharpness.",
+            "fourList": "Collectible and exclusive – hand engraving, damask, bulat."
+        },
+        "textThreeTitle": "How to choose your perfect knife?",
+        "textThreeContent": "Not sure which blade suits you? Write to us — we’ll help you choose Zlatoust knives that will bring joy for years to come.",
+        "textFourTitle": "Why can you trust us?",
+        "textFourContent": {
+            "textOneSpan": "Only Originals",
+            "textTwoSpan": "Fast Delivery",
+            "textThreeSpan": "Quality Guarantee",
+            "textOneList": "— no cheap fakes.",
+            "textTwoList": "— we ship the same day the order is placed.",
+            "textThreeList": "— Quality guarantee: if something is wrong (although this has never happened), we will resolve the issue without any questions."
+        },
+        "textBottomTitle": "Zlatoust knives are not just steel, they are character. Choose your weapon!",
+        "aboutCard": {
+            "cardContentOne": "Order delivery from 2 days",
+            "cardContentTwo": "Courier delivery to your door",
+            "cardContentThree": "Payment upon receipt",
+            "cardContentFour": "All products are certified and have a certificate of compliance"
+        }
+    },
+    "home": {
+        "firstsectionTop": {
+            "onlineStoreTitle": "Certified Online Store",
+            "onlineStoreSpanTitle": "Zlatoust Knives",
+            "website": "Welcome to the official website of 'ZLATMAX'! In our store",
+            "websiteText": "you will find the widest selection of Zlatoust knives from Zlatoust Weapon Factories and companies. We are official suppliers.",
+            "websiteButton": "Learn More"
+        },
+        "firstsectionBottom": {
+            "textOne": "100% money-back guarantee",
+            "textTwo": "Delivery to Russia, Kazakhstan, and Belarus",
+            "textThree": "Ability to place an order without registration",
+            "textFour": "Discounts for regular customers"
+        },
+        "firstCards": {
+            "cardOne": {
+                "cardTitle": "Knife Catalog"
+            },
+            "cardTwo": {
+                "cardTitle": "Medium-Bladed Weapons"
+            },
+            "cardThree": {
+                "cardTitle": "Long-Bladed Weapons"
+            },
+            "cardFour": {
+                "cardTitle": "Souvenir Items"
+            },
+            "cardFive": {
+                "cardTitle": "Related Products"
+            },
+            "cardSix": {
+                "cardTitle": "Knife Workshop"
+            },
+            "cardContent": {
+                "textOne": "Butchering",
+                "textTwo": "Tourist",
+                "textThree": "Hunting"
+            }
+        }
+    }
+}

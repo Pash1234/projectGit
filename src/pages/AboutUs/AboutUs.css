@@ -1,0 +1,60 @@
+.textTitle{
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: .5rem;
+}
+.textContent{
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+.aboutSection{
+    padding-left: 1.5rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.textBold{
+    font-weight: bolder;
+}
+.aboutBottomContent{
+    margin-top: 15px;
+}
+.aboutImageContent{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.aboutImage{
+    margin-top: 40px;
+}
+.secondText{
+    margin: 15px 0px ;
+}
+.fourthText{
+    margin: 15px 0px;
+}
+.aboutBottomText{
+    font-size: 18px;
+}
+.aboutBottomImage{
+    display: flex;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+
+
+@media only screen and (max-width: 515px) {
+    .textTitle{
+        font-size: 2rem;
+    }
+    .textContent {
+        font-size: 16px;
+    }
+    .aboutImageContent{
+        justify-content: center;
+    }
+}
+    

@@ -1,0 +1,78 @@
+.contactSection{
+    padding: 30px 0px;
+}
+.contactInformation{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contactSectionContent h2{
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.contactSectionContent h4{
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.phoneNumberOne{
+    margin-bottom: 25px;
+}
+.phoneImage{
+    width: 20px;
+}
+.phones{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.apps{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+.apps img{
+    width: 33px;
+}
+.emailImage{
+    width: 20px;
+}
+.emails{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.emailName{
+    margin-bottom: 25px;
+}
+.timeImage{
+    width: 20px;
+}
+.times{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.contactSectionContent a{
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 953px) {
+    .contactInformation{
+        gap: 40px;
+    }
+}
+@media only screen and (max-width: 730px) {
+    .contactSectionContent h2{
+        font-size: 28px;
+    }
+    .contactSectionContent h4{
+        font-size: 18px;
+    }
+}
