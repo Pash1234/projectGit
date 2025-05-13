@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.imgText {
+    display: flex;
+    gap: 15px;
+}
+
+.imgText p {
+    color: #141414;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+.cardsOne {
+    width: 385px;
+    height: 550px;
+    background-color: rgb(247, 247, 247);
+    margin-top: 62px;
+    border-radius: 5px;
+}
+
+.cards .cardImg {
+    text-align: center;
+}
+
+.cardName {
+    margin-left: 20px;
+    margin-top: 43px;
+}
+
+.cardName .about p {
+    font-size: 16px;
+    color: #ababab;
+    margin-top: 15px;
+}
+
+.cardName .about {
+    display: flex;
+    gap: 160px;
+}
+
+.grade img {
+    width: 150px;
+    height: 22px;
+    margin-top: 15px;
+}
+
+.grade {
+    display: flex;
+    gap: 97px;
+}
+
+.grade p {
+    font-size: 16px;
+    color: #ababab;
+    margin-top: 15px;
+}
+
+.paloska {
+    width: 335px;
+    background-color: #141414;
+    height: 1px;
+    margin-left: 20px;
+    margin-top: 26px;
+}
+
+.price {
+    display: flex;
+    gap: 195px;
+    margin-left: 22px;
+    margin-top: 30px;
+}
+
+.price .icons {
+    display: flex;
+    width: 26px;
+    height: 24px;
+    gap: 15px;
+    margin-top: 5px;
+}
+
+.cardButton {
+    width: 337px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #e8aa31;
+    font-size: 19px;
+}
+
+.cardButton a {
+    color: white;
+}
+
+.cardButton img {
+    margin-left: 10px;
+}
+
+.cardButton:hover {
+    background-color: green;
+    transition: 1s;
+}
+
+@media only screen and (max-width: 1440px) {
+    .cards {
+        display: block;
+        margin-left: 0px;
+    }
+
+    .cardsOne {
+        align-items: center;
+        display: block;
+        margin: auto;
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    .text {
+        justify-content: space-around;
+    }
+
+    .imgText {
+        margin-top: 5px;
+    }
+}
